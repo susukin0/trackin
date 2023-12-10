@@ -1,1 +1,2 @@
 mv old_filename "$(echo -e '\u202E')new_filename"
+only the extension in terminal, rename the file manually from gui
